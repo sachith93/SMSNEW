@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudentManagementSystem.Business.Assignment">
+    <Position X="1.25" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAACAGAAAgBACAAAAAAAAAAAACAAAABgAAAAQAAIAA=</HashCode>
+      <FileName>Business\Assignment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.Attendance">
+    <Position X="8" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAACIAAAAgAACIAAAAKAAAACAAAAAABAAAAAQAAIAA=</HashCode>
+      <FileName>Business\Attendance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.Behaviers">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEACIAQAAgIECAAKQEAACEIAAAAAAAAAAAAAAAIIAA=</HashCode>
+      <FileName>Business\Behaviers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.ConnectionAccessClass" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAFIAAAAAAAACAAACCCBAAAAAQAAAACAEAAAA=</HashCode>
+      <FileName>Business\ConnectionAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.Course">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAEAAAgBAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAA=</HashCode>
+      <FileName>Business\Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.Lecturer">
+    <Position X="4.5" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAICgEAKCgBCCCgAAgAgAAAAgIAAAICAAAIAAAAIAI=</HashCode>
+      <FileName>Business\Lecturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.Payment">
+    <Position X="7.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gIAECoAAAAgAACAAIAgAgCgIAYAAAIEAAAAAQAAQJEI=</HashCode>
+      <FileName>Business\Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.Results" Collapsed="true">
+    <Position X="11.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Business\Results.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.StudentInfo">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wABICoAAKCgAICCgACAAgAAEAAAAAACAAQAKAEEAIgI=</HashCode>
+      <FileName>Business\StudentInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.StudentManagement">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIEAAAAAQAAEAAAAAAgACAAAEQAAQQIAEAAAA=</HashCode>
+      <FileName>Business\StudentManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.TimeTable">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICACAGggAgBAAAAAAAAAAAAAAAAAAABACAAAQAAgAA=</HashCode>
+      <FileName>Business\TimeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.UserInfo">
+    <Position X="12.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAkCAAAAAAAAAAAAAAAAAAAAAACCAAABgIAABQ=</HashCode>
+      <FileName>Business\UserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.UserManagement">
+    <Position X="0.5" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAIAAAAAACAAAAAAQCAAAAAAAAAAAAQAAACIAEAAAA=</HashCode>
+      <FileName>Business\UserManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Business.UserRoleControl">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgAAAAAAAAAAAAAAoAAAAAAAACQAAAAIAAAAAA=</HashCode>
+      <FileName>Business\UserRoleControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
